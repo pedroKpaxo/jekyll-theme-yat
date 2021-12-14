@@ -1,7 +1,7 @@
 ---
 layout: post
-title: GeoDesign em movimento
-subtitle: Manipulando arquivos .LIS utilizando python
+title: Uma breve história da Perfilagem digital
+subtitle: DOs irmãos Schlumberger aos arquivo .LAS
 categories: markdown
 tags: [Geologia design]
 ---
@@ -14,7 +14,7 @@ Base para os próximos trabalhos.
 
 # Perfis_Digitais
 
-**Conrad e Marcel Schlumberger**, que fundou a **Schlumberger Limited em 1926**, são considerados os inventores da perfilagem elétrica de poços.
+**Conrad e Marcel Schlumberger**, que fundaram a **Schlumberger Limited em 1926**, são considerados os inventores da perfilagem elétrica de poços.
 Conrad desenvolveu a matriz Schlumberger, que era uma técnica de prospecção de depósitos de minério de metal, e os irmãos adaptaram essa técnica de superfície para aplicações subterrâneas.
 
 Em 5 de setembro de 1927, uma equipe que trabalhava para a Schlumberger Limited baixou uma sonda elétrica acoplada a sua matriz em um poço localizado em **Pechelbronn**, Alsácia, França, criando o primeiro perfil de poço. Em termos modernos, o primeiro registro era um registro de resistividade que poderia ser descrito como registro lateral invertido de 3,5 metros. 
