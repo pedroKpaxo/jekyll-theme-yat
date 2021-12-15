@@ -33,7 +33,7 @@ Como o DLIS, o LIS é um formato binário (big-endian). Ele é baseado no padrã
 Mesmo assim, os arquivos LIS ainda estão sendo produzidos e grandes volumes de informações de registro histórico existem neste formato. O Log I / O é uma plataforma conveniente para gerenciar e manter essas informações.
 Um arquivo LIS físico consiste em um ou mais arquivos LIS lógicos, cada um contendo um conjunto de registros (metadados) de diferentes tipos, bem como uma curva de índice e um conjunto de curvas de medição. Cada curva pode ter uma ou várias amostras por medida de profundidade e, além disso, as curvas podem ser unidimensionais ou multidimensionais.
 
-### Arquivos .Lis
+### Arquivos .Dlis
 
 **Dlis** é um formato de arquivo binário para registros de poços, desenvolvido pela Schlumberger no final dos anos 80 e publicado pelo American Petroleum Institute (API) em 1991. Em 1998, a administração foi entregue à Petrotechnical Open Software Corporation (POSC), agora conhecida como energética 1
 
